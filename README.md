@@ -1,2 +1,1 @@
-# doodle-jump
-# midwest-mischief
+# js-snake-game
