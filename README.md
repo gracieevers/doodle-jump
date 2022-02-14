@@ -1,2 +1,1 @@
-# js-snake-game
-# daily-tarot
+# js-weather-app
